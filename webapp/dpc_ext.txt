@@ -1,4 +1,6 @@
 //Rob From Ukrain
+
+//Jenny from Russia
 class ZCL_ZNVID_XX_ODATA_DPC_EXT definition
   public
   inheriting from ZCL_ZNVID_XX_ODATA_DPC
